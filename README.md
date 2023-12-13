@@ -4,10 +4,10 @@
 Discover the beauty of nature at your fingertips with our Plant Store App - an E-commerce Web App built with React and styled using Tailwind CSS. Dive into the world of online plant shopping, where lush greenery meets cutting-edge technology.
 
 ##Features
-🌱 Browse a diverse selection of botanical wonders
-🛒 Seamless E-commerce functionality for easy shopping
-💻 Developed with React for a responsive and interactive user experience
-🎨 Styled with Tailwind CSS for a sleek and modern design
+- 🌱 Browse a diverse selection of botanical wonders
+- 🛒 Seamless E-commerce functionality for easy shopping
+- 💻 Developed with React for a responsive and interactive user experience
+- 🎨 Styled with Tailwind CSS for a sleek and modern design
 
 ## Tech Stack
 - **Vite:** The app is built using Vite for a fast and efficient development experience.
