@@ -8,7 +8,7 @@ const Footer = () => {
         <Link to={''}>
         <img
           loading="lazy"
-          src="./src/assets/images/harvestay_logo_footer.png"
+          src="./public/assets/images/harvestay_logo_footer.png"
           className="aspect-[5.46] object-contain object-center w-[273px] overflow-hidden shrink-0 max-w-full footer-logo"
           alt="Harvestay Logo"
         />
@@ -26,7 +26,7 @@ const Footer = () => {
           <Link to={'#facebook'}>
           <img
             loading="lazy"
-            src="./src/assets/icons/facebook.svg"
+            src="./public/assets/icons/facebook.svg"
             className="aspect-[0.5] object-contain object-center w-3 overflow-hidden shrink-0 max-w-full"
             alt="Facebook Icon"
           />
@@ -34,7 +34,7 @@ const Footer = () => {
           <Link to={'#x'}>
           <img
             loading="lazy"
-            src="./src/assets/icons/x.svg"
+            src="./public/assets/icons/x.svg"
             className="aspect-square object-contain object-center w-6 overflow-hidden shrink-0 max-w-full"
             alt="Close Icon"
           />
@@ -42,7 +42,7 @@ const Footer = () => {
           <Link to={'#Instagram'}>
           <img
             loading="lazy"
-            src="./src/assets/icons/instagram.svg"
+            src="./public/assets/icons/instagram.svg"
             className="aspect-square object-contain object-center w-6 overflow-hidden shrink-0 max-w-full"
             alt="Instagram Icon"
           />

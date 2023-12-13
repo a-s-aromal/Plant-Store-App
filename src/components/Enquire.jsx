@@ -25,7 +25,7 @@ const Enquire = () => {
         <div className="flex flex-col items-stretch w-[48%] ml-5 max-md:w-full max-md:ml-0">
           <img
             loading="lazy"
-            srcSet="./src/assets/images/harvestay_office.png"
+            srcSet="./public/assets/images/harvestay_office.png"
             className="aspect-[1.81] object-contain object-center w-full overflow-hidden grow  max-md:mt-10  enquire-img"
           />
         </div>

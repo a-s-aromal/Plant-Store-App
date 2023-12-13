@@ -13,9 +13,9 @@ import SubCategories from "./components/SubCategories";
 import HeroSlider, { Overlay, Slide } from "hero-slider";
 import './globals.css'
 //
-const image1 = "src/assets/images/banner_bg.png";
-const image2 = "src/assets/images/banner_bg2.png";
-const image3 = "src/assets/images/banner_bg3.png";
+const image1 = "public/assets/images/banner_bg.png";
+const image2 = "public/assets/images/banner_bg2.png";
+const image3 = "public/assets/images/banner_bg3.png";
 
 function App(props) {
   return (

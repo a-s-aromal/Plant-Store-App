@@ -7,7 +7,7 @@ function Navbar() {
       <Link to="/">
         <img
           loading="lazy"
-          srcSet="./src/assets/images/harvestay_logo.png"
+          srcSet="./public/assets/images/harvestay_logo.png"
           className="aspect-[3.18] object-contain object-center w-[129px] md:w-[229px] overflow-hidden shrink-0 max-w-full"
           alt="Logo"
         />
@@ -33,7 +33,7 @@ function Navbar() {
       <Link to="#Menu" className="hamburger">
           <img
             loading="lazy"
-            src="./src/assets/icons/menu.svg"
+            src="./public/assets/icons/menu.svg"
             className="aspect-square object-contain object-center w-4 md:w-6 overflow-hidden shrink-0 max-w-full"
             alt="Search"
           />
@@ -42,7 +42,7 @@ function Navbar() {
         <Link to="#Search">
           <img
             loading="lazy"
-            src="./src/assets/icons/search.svg"
+            src="./public/assets/icons/search.svg"
             className="aspect-square object-contain object-center w-4 md:w-6 overflow-hidden shrink-0 max-w-full"
             alt="Search"
           />
@@ -50,7 +50,7 @@ function Navbar() {
         <Link to="#Profile">
           <img
             loading="lazy"
-            src="./src/assets/icons/profile.svg"
+            src="./public/assets/icons/profile.svg"
             className="aspect-square object-contain object-center w-4 md:w-6 justify-center items-center overflow-hidden shrink-0 max-w-full"
             alt="Profile"
           />
@@ -58,7 +58,7 @@ function Navbar() {
         <Link to="#Cart">
           <img
             loading="lazy"
-            src="./src/assets/icons/cart.svg"
+            src="./public/assets/icons/cart.svg"
             className="aspect-square object-contain object-center w-4 md:w-6 overflow-hidden shrink-0 max-w-full"
             alt="Cart"
           />

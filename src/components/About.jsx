@@ -30,7 +30,7 @@ const About = () => {
                 <div className="thumbnail-image-container overflow-hidden rounded-md">
                   <img
                     loading="lazy"
-                    srcSet="./src/assets/images/video_thumbnail.png"
+                    srcSet="./public/assets/images/video_thumbnail.png"
                     className="aspect-[1.98] object-contain object-center w-full h-full"
                   />
                   <div className="hover-overlay"></div>
@@ -38,7 +38,7 @@ const About = () => {
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                   <img
                     loading="lazy"
-                    src="./src/assets/icons/play_button.svg"
+                    src="./public/assets/icons/play_button.svg"
                     className="aspect-square object-contain object-center play-button"
                     alt="Play Button"
                   />

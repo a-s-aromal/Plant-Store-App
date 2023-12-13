@@ -14,7 +14,7 @@ const Categories = () => {
             <div className="category">
               <img
                 loading="lazy"
-                srcSet="./src/assets/images/category1.png"
+                srcSet="./public/assets/images/category1.png"
                 className="category-img"
               />
             </div>
@@ -26,7 +26,7 @@ const Categories = () => {
             <div className="category">
               <img
                 loading="lazy"
-                srcSet="./src/assets/images/category2.png"
+                srcSet="./public/assets/images/category2.png"
                 className="category-img2"
               />
             </div>
@@ -38,7 +38,7 @@ const Categories = () => {
             <div className="category">
               <img
                 loading="lazy"
-                srcSet="./src/assets/images/category3.png"
+                srcSet="./public/assets/images/category3.png"
                 className="category-img3"
               />
             </div>
@@ -66,7 +66,7 @@ const Categories = () => {
               <div className="category">
                 <img
                   loading="lazy"
-                  srcSet="./src/assets/images/category1.png"
+                  srcSet="./public/assets/images/category1.png"
                   className="category-img"
                 />
               </div>
@@ -78,7 +78,7 @@ const Categories = () => {
               <div className="category">
                 <img
                   loading="lazy"
-                  srcSet="./src/assets/images/category2.png"
+                  srcSet="./public/assets/images/category2.png"
                   className="category-img2"
                 />
               </div>
@@ -92,7 +92,7 @@ const Categories = () => {
               <div className="category">
                 <img
                   loading="lazy"
-                  srcSet="./src/assets/images/category3.png"
+                  srcSet="./public/assets/images/category3.png"
                   className="category-img3"
                 />
               </div>

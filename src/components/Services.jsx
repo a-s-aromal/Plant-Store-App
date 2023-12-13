@@ -14,7 +14,7 @@ const Services = () => {
               <div className="img-content">
                 <h2 className="absolute ml-[-100px]">Easy Plant Kits</h2>
                 <img
-                  src="./src/assets/images/service1.png"
+                  src="./public/assets/images/service1.png"
                   alt="Service Image"
                 />
               </div>
@@ -36,7 +36,7 @@ const Services = () => {
               <div className="img-content">
                 <h2 className="absolute ml-[-120px]">Landscaping</h2>
                 <img
-                  src="./src/assets/images/service2.png"
+                  src="./public/assets/images/service2.png"
                   alt="Service Image"
                 />
               </div>
@@ -58,7 +58,7 @@ const Services = () => {
               <div className="img-content">
                 <h2 className="absolute ml-[-160px]">Plant Gift</h2>
                 <img
-                  src="./src/assets/images/service3.png"
+                  src="./public/assets/images/service3.png"
                   alt="Service Image"
                 />
               </div>
@@ -85,7 +85,7 @@ const Services = () => {
                   Gardens
                 </h2>
                 <img
-                  src="./src/assets/images/service4.png"
+                  src="./public/assets/images/service4.png"
                   alt="Service Image"
                 />
               </div>

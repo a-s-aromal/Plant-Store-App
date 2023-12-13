@@ -12,7 +12,7 @@
 
 .zoom-button {
   transition: transform 0.3s ease-in-out;
-  background-image: url("./src/assets/images/Shopnow.png");
+  background-image: url("./public/assets/images/Shopnow.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
