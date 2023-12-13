@@ -286,7 +286,7 @@
   width: 100%; /* Make sure the image fills the container */
   height: 100%;
   object-fit: cover;
-  margin-top: -350px; /* Maintain aspect ratio */
+  margin-top: -310px; /* Maintain aspect ratio */
   transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
@@ -321,17 +321,17 @@
 }
 
 .category-img2 {
-  width: 50%; /* Make sure the image fills the container */
-  height: 50%;
+  width: 100%; /* Make sure the image fills the container */
+  height: 100%;
   object-fit: cover;
-  margin-top: -240px; /* Maintain aspect ratio */
+  margin-top: -310px; /* Maintain aspect ratio */
   transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
 .card-client:hover .category-img2 {
   transform: scale(1.2);
   transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
-  margin-top: -150px;
+  margin-top: -250px;
 }
 
 .name-client2 {
