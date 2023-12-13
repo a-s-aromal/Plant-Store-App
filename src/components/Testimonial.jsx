@@ -7,7 +7,7 @@ const Testimonial = () => {
         <div className="absolute flex flex-col items-stretch w-[36%] max-md:w-full max-md:ml-0 mt-[-50px]">
           <img
             loading="lazy"
-            srcSet="./public/assets/images/side_plant.png"
+            srcSet="/assets/images/side_plant.png"
             className="aspect-[0.94] object-contain object-center w-full overflow-hidden grow max-md:max-w-full side-plant"
           />
         </div>{" "}
@@ -26,12 +26,12 @@ const Testimonial = () => {
             </div>{" "}
             <img
               loading="lazy"
-              src="./public/assets/images/review_stars.png"
+              src="/assets/images/review_stars.png"
               className="aspect-[14.36] object-contain object-center w-[359px] fill-white overflow-hidden self-center max-w-full mt-5"
             />{" "}
             <img
               loading="lazy"
-              srcSet="./public/assets/images/luis_lara.png"
+              srcSet="/assets/images/luis_lara.png"
               className="aspect-[2.98] object-contain object-center w-[298px] overflow-hidden self-center max-w-full mt-5"
             />{" "}
             <div className="text-black text-center text-lg self-center whitespace-nowrap mt-5">

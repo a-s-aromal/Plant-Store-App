@@ -48,7 +48,7 @@ const Overview = () => {
           <div className="flex flex-col items-stretch w-[58%] ml-5 max-md:w-full max-md:ml-0">
             <img
               loading="lazy"
-              src="./public/assets/images/girl_holding_plant.png"
+              src="/assets/images/girl_holding_plant.png"
               className="aspect-[0.83] object-contain object-center w-full overflow-hidden grow max-md:max-w-full max-md:mt-10"
               alt="Girl holding plant"
             />

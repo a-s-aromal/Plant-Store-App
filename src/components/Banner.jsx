@@ -21,7 +21,7 @@ const Banner = () => {
                 </div>
                 <img
                   loading="lazy"
-                  srcSet="./public/assets/icons/shop_now_arrow.svg"
+                  srcSet="/assets/icons/shop_now_arrow.svg"
                   className="aspect-square object-contain object-center w-[34px] backdrop-blur-[44px] overflow-hidden self-stretch shrink-0 max-w-full rounded-[50%]"
                 />
               </div>

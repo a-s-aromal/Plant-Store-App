@@ -41,13 +41,13 @@ const RecentProducts = () => {
               <button onClick={() => handleButtonClick(1)}>
                 <img
                   className="absolute ml-[90px] mt-[-10px]"
-                  src={liked1 ? "./public/assets/icons/liked.svg" : "./public/assets/icons/like.svg"}
+                  src={liked1 ? "/assets/icons/liked.svg" : "/assets/icons/like.svg"}
                   alt={liked1 ? "liked" : "like"}
                 />
               </button>
               <img
                 loading="lazy"
-                srcSet="./public/assets/images/product1.png"
+                srcSet="/assets/images/product1.png"
                 className="product"
               />
               <div className="text">
@@ -72,13 +72,13 @@ const RecentProducts = () => {
               <button onClick={() => handleButtonClick(2)}>
                 <img
                   className="absolute ml-[90px] mt-[-10px]"
-                  src={liked2 ? "./public/assets/icons/liked.svg" : "./public/assets/icons/like.svg"}
+                  src={liked2 ? "/assets/icons/liked.svg" : "/assets/icons/like.svg"}
                   alt={liked2 ? "liked" : "like"}
                 />
               </button>
               <img
                 loading="lazy"
-                srcSet="./public/assets/images/product2.png"
+                srcSet="/assets/images/product2.png"
                 className="product"
               />
               <div className="text add-cart">
@@ -103,13 +103,13 @@ const RecentProducts = () => {
               <button onClick={() => handleButtonClick(3)}>
                 <img
                   className="absolute ml-[90px] mt-[-10px]"
-                  src={liked3 ? "./public/assets/icons/liked.svg" : "./public/assets/icons/like.svg"}
+                  src={liked3 ? "/assets/icons/liked.svg" : "/assets/icons/like.svg"}
                   alt={liked3 ? "liked" : "like"}
                 />
               </button>
               <img
                 loading="lazy"
-                srcSet="./public/assets/images/product3.png"
+                srcSet="/assets/images/product3.png"
                 className="product"
               />
               <div className="text add-cart">
@@ -134,13 +134,13 @@ const RecentProducts = () => {
               <button onClick={() => handleButtonClick(4)}>
                 <img
                   className="absolute ml-[90px] mt-[-10px]"
-                  src={liked4 ? "./public/assets/icons/liked.svg" : "./public/assets/icons/like.svg"}
+                  src={liked4 ? "/assets/icons/liked.svg" : "/assets/icons/like.svg"}
                   alt={liked4 ? "liked" : "like"}
                 />
               </button>
               <img
                 loading="lazy"
-                srcSet="./public/assets/images/product4.png"
+                srcSet="/assets/images/product4.png"
                 className="product"
               />
               <div className="text add-cart">
