@@ -392,14 +392,14 @@
 .sub-category-img {
   width: 40%; /* Make sure the image fills the container */
   height: 80%;
-  margin-top: -280px; /* Maintain aspect ratio */
-  margin-left: -260px;
+  margin-top: -220px; /* Maintain aspect ratio */
+  margin-left: -215px;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
 .sub-name-client {
   margin: 0;
-  margin-top: -212px; /* Adjusted margin */
+  margin-top: -186px; /* Adjusted margin */
   margin-left: 60px;
   font-weight: 600;
   font-size: 22px;
@@ -407,16 +407,16 @@
 }
 
 .sub-category-img2 {
-  width: 38%; /* Make sure the image fills the container */
+  width: 40%; /* Make sure the image fills the container */
   height: 80%;
-  margin-top: -280px; /* Maintain aspect ratio */
-  margin-left: -222px;
+  margin-top: -220px; /* Maintain aspect ratio */
+  margin-left: -212px;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
 .sub-name-client2 {
   margin: 0;
-  margin-top: -214px; /* Adjusted margin */
+  margin-top: -186px; /* Adjusted margin */
   margin-left: 60px;
   font-weight: 600;
   font-size: 22px;
@@ -424,16 +424,16 @@
 }
 
 .sub-category-img3 {
-  width: 58%; /* Make sure the image fills the container */
-  height: 95%;
-  margin-top: -300px; /* Maintain aspect ratio */
+  width: 40%; /* Make sure the image fills the container */
+  height: 80%;
+  margin-top: -220px; /* Maintain aspect ratio */
   margin-left: -230px;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
 .sub-name-client3 {
   margin: 0;
-  margin-top: -214px; /* Adjusted margin */
+  margin-top: -186px; /* Adjusted margin */
   margin-left: 60px;
   font-weight: 600;
   font-size: 22px;
