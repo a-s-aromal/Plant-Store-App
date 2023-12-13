@@ -14,8 +14,8 @@ Discover the beauty of nature at your fingertips with our Plant Store App - an E
 - **React:** Utilizing React for a dynamic and responsive user interface.
 
 ## Installation
-1. Clone the repository: `git clone `
-2. Navigate to the project directory: `cd unlink`
+1. Clone the repository: `git clone https://github.com/a-s-aromal/Plant-Store-App.git`
+2. Navigate to the project directory: `cd Plant-Store-App`
 3. Install dependencies: `npm install` or `yarn install`
 
 ## Getting Started
